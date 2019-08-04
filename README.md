@@ -56,3 +56,15 @@ br.com.crosoften.project
 
 `viewmodel`: Camada responsável pela parte lógica e a conexão entre a camada de view e a camada model.
 
+
+## Bibliotecas Padrões que são Utilizadas
+
+* [Crosoften Tecnologia e Inovação](https://crosoften.com/)
+* [Crosoften Tecnologia e Inovação](https://crosoften.com/)
+* [Crosoften Tecnologia e Inovação](https://crosoften.com/)
+* [Crosoften Tecnologia e Inovação](https://crosoften.com/)
+* [Crosoften Tecnologia e Inovação](https://crosoften.com/)
+* [Crosoften Tecnologia e Inovação](https://crosoften.com/)
+
+
+

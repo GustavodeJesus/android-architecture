@@ -9,7 +9,7 @@ Durante nossos projetos utilizamos o conceito de [Model-View-ViewModel (ou MVVM)
 ```kotlin
 br.com.crosoften.project
 ├─ commom
-├─ data
+└─ data
    └─ adapters
 ├─ presenters
 ├─ utils

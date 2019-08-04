@@ -7,9 +7,10 @@ Esse repositório foi criado com o objetivo de instruir boas práticas para o de
 Durante nossos projetos utilizamos o conceito de [Model-View-ViewModel (ou MVVM)](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel), com algumas pequenas modificações para melhor se adequar ao nosso ambiente.
 
 ```kotlin
-br.com.alterdata.projeto
-├─ providers
-├─ models
+br.com.crosoften.project
+├─ commom
+├─ data
+   └─ adapters
 ├─ presenters
 ├─ utils
 └─ ui

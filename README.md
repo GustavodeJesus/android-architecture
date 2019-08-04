@@ -1,5 +1,4 @@
 # Android Architecture MVVM
-trim_trailing_whitespace = false
 
 Esse repositório foi criado com o objetivo de instruir boas práticas para o desenvolvimento Android visando um código mais legível. Ele é utilizado **internamente** pela equipe de desenvolvimento de APPs da [Crosoften Tecnologia e Inovação](https://crosoften.com/) com o propositório de padronizar, estruturar e manter uma melhor qualidade de código.
 
@@ -35,10 +34,10 @@ br.com.crosoften.project
 
 `commom`: Pacote referente a classes comums ao projeto, classes de domínio geral.
 
-`data`: É a camada responsavel por acessar o banco de dados. Dentro dela temos: <br /><br />
- <p>`dao`: Camada de interfaces contendo os métodos de manipulação das entidades no banco. </p> <br />
-      `database`: Camada de configuração do banco de dados. <br />
-      `entities`: Camada de entidades criadas no banco. <br />
+`data`: É a camada responsavel por acessar o banco de dados. Dentro dela temos: <br/>
+`dao`: Camada de interfaces contendo os métodos de manipulação das entidades no banco.<br/>
+`database`: Camada de configuração do banco de dados. <br/>
+`entities`: Camada de entidades criadas no banco. <br/>
       
 `ui`: Responsável por guardar as activities, fragments, adapters, notifications, action bar. Basicamente, tudo relacionado a View do aplicativo.
 

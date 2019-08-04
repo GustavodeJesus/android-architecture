@@ -36,9 +36,9 @@ br.com.crosoften.project
 
 `data`: É a camada responsavel por acessar o banco de dados. Dentro dela temos:
    <p> 
-      **dao**: Camada de interfaces contendo os métodos de manipulação das entidades no banco.<br/> 
-      **database**: Camada de configuração do banco de dados.<br/> 
-      **entities**: Camada de entidades criadas no banco. 
+      **dao** : Camada de interfaces contendo os métodos de manipulação das entidades no banco.<br/> 
+      **database** : Camada de configuração do banco de dados.<br/> 
+      **entities** : Camada de entidades criadas no banco. 
    </p>
    
 `ui`: Responsável por guardar as activities, fragments, adapters, notifications, action bar. Basicamente, tudo relacionado a View do aplicativo.

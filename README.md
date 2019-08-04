@@ -36,11 +36,10 @@ br.com.crosoften.project
 `commom`: Pacote referente a classes comums ao projeto, classes de domínio geral.
 
 `data`: É a camada responsavel por acessar o banco de dados. Dentro dela temos: 
-   
-      `dao`: Camada de interfaces contendo os métodos de manipulação das entidades no banco.
-      `database`: Camada de configuração do banco de dados.
-      `entities`: Camada de entidades criadas no banco. 
-   
+      `dao`: Camada de interfaces contendo os métodos de manipulação das entidades no banco. <br />
+      `database`: Camada de configuração do banco de dados. <br />
+      `entities`: Camada de entidades criadas no banco. <br />
+      
 `ui`: Responsável por guardar as activities, fragments, adapters, notifications, action bar. Basicamente, tudo relacionado a View do aplicativo.
 
 `presenters`: Responsável por vincular os models, providers e a ui; similar ao Controller do MVC.

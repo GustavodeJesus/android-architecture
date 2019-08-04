@@ -31,3 +31,15 @@ br.com.crosoften.project
    └─ fragments
 └─ viewmodel
 ```
+
+```java
+br.com.alterdata.projeto
+├─ providers
+├─ models
+├─ presenters
+├─ utils
+└─ ui
+   ├─ adapters
+   ├─ activities
+   └─ fragments
+```

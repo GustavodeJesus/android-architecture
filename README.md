@@ -6,7 +6,7 @@ Esse repositório foi criado com o objetivo de instruir boas práticas para o de
 
 Durante nossos projetos utilizamos o conceito de [Model-View-ViewModel (ou MVVM)](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel), com algumas pequenas modificações para melhor se adequar ao nosso ambiente.
 
-```kotlin
+```java
 br.com.crosoften.project
 ├─ commom
 ├─ data
@@ -17,9 +17,17 @@ br.com.crosoften.project
    ├─ base
    ├─ component
    └─ module
+├─ network
+   ├─ model
+   └─ services   
+├─ services
 ├─ utils
-└─ ui
-   ├─ adapters
+├─ view
    ├─ activities
+   ├─ adapters
+   ├─ animations
+   ├─ custom
+   ├─ dialogs
    └─ fragments
+└─ viewmodel
 ```

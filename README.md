@@ -32,14 +32,18 @@ br.com.crosoften.project
 └─ viewmodel
 ```
 
-```java
-br.com.alterdata.projeto
-├─ providers
-├─ models
-├─ presenters
-├─ utils
-└─ ui
-   ├─ adapters
-   ├─ activities
-   └─ fragments
-```
+`commom`: Pacote referente a classes comums ao projeto, classes de domínio geral.
+
+`data`: É a camada responsavel por acessar o banco de dados. Dentro dela temos: 
+      `dao`- Camada de interfaces contendo os métodos de manipulação das entidades no banco.
+      `database`- Camada de configuração do banco de dados.
+      `entities`- Camada de entidades criadas no banco.
+
+`ui`: Responsável por guardar as activities, fragments, adapters, notifications, action bar. Basicamente, tudo relacionado a View do aplicativo.
+
+`presenters`: Responsável por vincular os models, providers e a ui; similar ao Controller do MVC.
+
+`utils`: Classes que não pertencem a nenhum grupo anterior, classes váriadas, podem ser guardadas no pacote útils. Por exemplo, uma classe para formatar datas (DataUtils).
+
+`models`: Os modelos são POJOs (Plain Old Java Object) que são populados a partir do banco de dados ou de uma resposta de algum WebService.
+

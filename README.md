@@ -35,8 +35,8 @@ br.com.crosoften.project
 
 `commom`: Pacote referente a classes comums ao projeto, classes de domínio geral.
 
-`data`: É a camada responsavel por acessar o banco de dados. Dentro dela temos: <br />
-      `__dao__`: Camada de interfaces contendo os métodos de manipulação das entidades no banco. <br />
+`data`: É a camada responsavel por acessar o banco de dados. Dentro dela temos: <br /><br />
+      `dao`: Camada de interfaces contendo os métodos de manipulação das entidades no banco. <br />
       `database`: Camada de configuração do banco de dados. <br />
       `entities`: Camada de entidades criadas no banco. <br />
       

@@ -92,6 +92,9 @@ Este Utilizado em conjunto com o Retrofit.</p>
 <p> Este módulo adiciona as classes mínimas ao RxJava que tornam a gravação de componentes reativos em aplicativos Android fácil e sem complicações. Mais especificamente, fornece um Schedulerprograma que agende no thread principal ou em qualquer dado Looper. 
 Este Utilizado em conjunto com o Retrofit.</p>
 
+* [Data Binding](https://developer.android.com/topic/libraries/data-binding?hl=pt-br)
+<p> A Data Binding Library é uma biblioteca de apoio que permite vincular componentes de IU dos seus layouts a fontes de dados do app usando um formato declarativo, em vez de programático.</p>
+
 
 
 

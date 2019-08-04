@@ -59,12 +59,17 @@ br.com.crosoften.project
 
 ## Bibliotecas Padrões que são Utilizadas
 
-* [Crosoften Tecnologia e Inovação](https://crosoften.com/)
-* [Crosoften Tecnologia e Inovação](https://crosoften.com/)
-* [Crosoften Tecnologia e Inovação](https://crosoften.com/)
-* [Crosoften Tecnologia e Inovação](https://crosoften.com/)
-* [Crosoften Tecnologia e Inovação](https://crosoften.com/)
-* [Crosoften Tecnologia e Inovação](https://crosoften.com/)
+* [Material Design](https://material.io/develop/android/docs/getting-started/)
+<p> Biblioteca Utilizada de acordo com os padrões estabelecidos pelo Material Design, na construção de Layouts, Animações, por se tratar de uma biblioteca que faz parte do conjunto de componentes de arquitetura do JetPack. </p>
+
+* [Lifecycle](https://developer.android.com/jetpack/androidx/releases/lifecycle)
+* [Paging](https://developer.android.com/jetpack/androidx/releases/paging)
+* [Room](https://developer.android.com/jetpack/androidx/releases/room)
+* [Retrofit](https://square.github.io/retrofit/)
+* [Gson](https://github.com/google/gson)
+* [Dagger2](https://github.com/google/dagger)
+* [RxJava](https://github.com/ReactiveX/RxJava)
+* [RxAndroid](https://github.com/ReactiveX/RxAndroid)
 
 
 
